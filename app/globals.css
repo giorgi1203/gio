@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(image/434192960_4000338430193336_2765540851093616023_n.jpg);
+  background-position:center ;
+ background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+
+}
+
+
